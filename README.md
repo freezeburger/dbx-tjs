@@ -5,10 +5,10 @@
 
 > React est une librairie de composant.
 
-C'est une facon des decoupée une application en compsant plus ou moins fonctionnels.
-* Il implément l'idee de la "norme web-components"
+C'est une façon des decoupler une application en composants plus ou moins fonctionnels.
+* Il implémente l'idée de la "norme web-components"
 
-Partuicularité : Utilisation de JSX `XML in JS`
+Particularité : Utilisation de JSX `XML in JS`
 
 ```jsx
 import React from 'react';
@@ -49,7 +49,7 @@ Launch Build : `npm run build`
 
 > C'est du JavaScript : Penser javaScript
 
-* On passe les infos TOd-Down par des parametres appeles 'props'
+* On passe les infos Top-Down par des parameères appelés 'props'
 
 ## Tooling 
 
